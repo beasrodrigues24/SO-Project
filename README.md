@@ -1,6 +1,6 @@
-# SO Project: Aurras - Processamento de ficheiros de áudio
+# SO Project: Aurras - Audio files processing
 
-Done in the context of Operative System in University of Minho
+Done in the context of Operative Systems in University of Minho
 
 By:
 
